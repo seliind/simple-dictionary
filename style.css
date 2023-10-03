@@ -1,0 +1,27 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+body {
+  background-image: url("https://images.pexels.com/photos/7185733/pexels-photo-7185733.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.title {
+  margin-top: 30px !important;
+  text-align: center;
+  margin-bottom: 20px;
+}
+.type-here {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.demo-container {
+  margin-top: 20px;
+}
